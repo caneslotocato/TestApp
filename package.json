@@ -1,0 +1,20 @@
+{
+  "name": "testappnodejsbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "mongodb": "^3.1.10",
+    "ws": "^6.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/testappstefano.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
